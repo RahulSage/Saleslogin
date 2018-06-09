@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "83311079560",
+    "firebase_url": "https://saleslogin-4dc49.firebaseio.com",
+    "project_id": "saleslogin-4dc49",
+    "storage_bucket": "saleslogin-4dc49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83311079560:android:9059ab9660f772a3",
+        "android_client_info": {
+          "package_name": "com.example.sage.saleslogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83311079560-s7ae5obmeh7avlq2qf9d1gff9jrdqlqh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sage.saleslogin",
+            "certificate_hash": "8e2030692d44f890fa7162ea726474a6cfb1e1bd"
+          }
+        },
+        {
+          "client_id": "83311079560-6cb6bu4p7dbt8qhi5temn2cb8bfumv9t.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "83311079560-6cb6bu4p7dbt8qhi5temn2cb8bfumv9t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsBoGwa27nTXu5QHYvx_qEuEPRrBdBjh0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83311079560-6cb6bu4p7dbt8qhi5temn2cb8bfumv9t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
